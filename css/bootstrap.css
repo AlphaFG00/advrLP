@@ -368,6 +368,7 @@ img {
 .mainAdvr{
   height: 100px;
   width: 50%;
+  align-self: left;
 }
 
 
