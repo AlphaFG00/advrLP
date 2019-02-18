@@ -1895,7 +1895,8 @@ form label {
  * animation slide-in-bck-center
  * ----------------------------------------
  */
-@keyframes slide-in-bck-center {
+@keyframes slide-in-bck-center 
+{
   0% {
     transform: translateZ(600px);
     opacity: 0;
@@ -1904,6 +1905,11 @@ form label {
     transform: translateZ(0);
     opacity: 1;
   }
+
+}
+
+.mainAdvr{
+  size: 100px, 200px;
 }
 
 /*# sourceMappingURL=style.css.map */
