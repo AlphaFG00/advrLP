@@ -365,8 +365,10 @@ img {
   vertical-align: left;
 }
 
-.mainAdvr{
-  height: 60px;
+
+img#mainAdvr{
+
+   height: 60px;
   width: 30%;
 }
 
