@@ -1888,5 +1888,22 @@ form label {
   background: none;
   border: 2px solid #17B794;
 }
+/*CODIGO PARA LOGO DE ADVR*/
+
+/**
+ * ----------------------------------------
+ * animation slide-in-bck-center
+ * ----------------------------------------
+ */
+@keyframes slide-in-bck-center {
+  0% {
+    transform: translateZ(600px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateZ(0);
+    opacity: 1;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
