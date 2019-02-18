@@ -19,6 +19,12 @@ body {
   background: #fff;
 }
 
+img#mainAdvr{
+
+   height: 60px;
+  width: 30%;
+}
+
 #page {
   position: relative;
   overflow-x: hidden;
