@@ -1909,7 +1909,8 @@ form label {
 }
 
 .mainAdvr{
-  size: 100px, 200px;
+  height: 200px;
+  width: 50%;
 }
 
 /*# sourceMappingURL=style.css.map */
