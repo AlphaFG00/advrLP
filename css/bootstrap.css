@@ -365,6 +365,12 @@ img {
   vertical-align: middle;
 }
 
+.mainAdvr{
+  height: 100px;
+  width: 50%;
+}
+
+
 .img-responsive {
   display: block;
   max-width: 100%;
