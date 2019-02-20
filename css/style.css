@@ -23,6 +23,7 @@ img#mainAdvr{
 
    height: 80px;
   width: 20%;
+  align-content: left;
 }
 
 #page {
