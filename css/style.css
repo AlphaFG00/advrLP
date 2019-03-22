@@ -124,9 +124,10 @@ h1, h2, h3, h4, h5, h6, figure {
 .gtco-nav #gtco-logo em {
   color: #17B794;
 }
+/*modifica MENU DE HEADER*/
 .gtco-nav a {
   padding: 5px 10px;
-  color: #fff;
+  color: #053958;
 }
 @media screen and (max-width: 768px) {
   .gtco-nav .menu-1, .gtco-nav .menu-2 {
@@ -143,10 +144,11 @@ h1, h2, h3, h4, h5, h6, figure {
   list-style: none;
   display: inline;
 }
+/*MODIFICA TODO EL MENU DEL HEADER*/
 .gtco-nav ul li a {
   font-size: 16px;
   padding: 30px 10px;
-  color: rgba(255, 255, 255, 0.5);
+  color: #053958;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -240,7 +242,7 @@ h1, h2, h3, h4, h5, h6, figure {
   box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75);
 }
 .gtco-nav ul li.active > a {
-  color: #fff !important;
+  color: #053958 !important;
 }
 
 @media screen and (max-width: 480px) {
@@ -675,13 +677,14 @@ form label {
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
+/*CAMBIO DE COLOR ICONOS PEQUEÑOS*/
 .feature-center .icon i {
   display: table-cell;
   vertical-align: middle;
   height: 90px;
   font-size: 40px;
   line-height: 40px;
-  color: #17B794;
+  color: #196CB2;
 }
 .feature-center p, .feature-center h3 {
   margin-bottom: 30px;
@@ -707,7 +710,7 @@ form label {
   display: table-cell;
   vertical-align: middle;
   font-size: 40px;
-  color: #17B794;
+  color: #196CB2;
 }
 .feature-left .feature-copy {
   float: right;
@@ -1488,7 +1491,7 @@ form label {
   width: 33.33%;
   float: left;
   padding: 30px;
-  background: #0C3C6C;
+  background: #196CB2;
   position: relative;
   text-align: center;
 }
@@ -1516,7 +1519,7 @@ form label {
   height: 90px;
   margin: 0 auto 10px auto;
   position: relative;
-  background: #0C3C6C;
+  background: #196CB2;
   top: -3em;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1545,7 +1548,7 @@ form label {
   -webkit-box-shadow: 0px 0 30px 10px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 0 30px 10px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 0 30px 10px rgba(0, 0, 0, 0.25);
-  background: #0C3C6C;
+  background: #196CB2;
 }
 @media screen and (max-width: 768px) {
   #gtco-features-3 .feature.feature-2 {
@@ -1556,7 +1559,7 @@ form label {
 }
 /*modifica icono PERMISOS*/
 #gtco-features-3 .feature.feature-2 .icon {
-  background: #0C3C6C;
+  background: #196CB2;
 }
 #gtco-features-3 .feature.feature-2 .feature-inner {
   top: -3em;
@@ -1572,7 +1575,7 @@ form label {
   position: absolute;
   top: -50px;
   content: "";
-  background: #0C3C6C;
+  background: #196CB2;
   height: 50px;
   width: 100%;
   left: 0;
@@ -1586,7 +1589,7 @@ form label {
   position: absolute;
   bottom: -30px;
   content: "";
-  background: #0C3C6C;
+  background: #196CB2;
   height: 30px;
   width: 100%;
   left: 0;
@@ -1602,10 +1605,10 @@ form label {
 /*MODIFICA SITIOS*/
 #gtco-features-3 .feature.feature-3 {
   z-index: 7;
-  background: #0C3C6C;
+  background: #196CB2;
 }
 #gtco-features-3 .feature.feature-3 .icon {
-  background: #0C3C6C;
+  background: #196CB2;
 }
 
 .gtco-flex {
@@ -1620,10 +1623,10 @@ form label {
   position: relative;
   float: left;
 }
-
+/*cambia parte catalogo de servicios*/
 #gtco-portfolio {
   padding: 7em 0;
-  background: #303841;
+  background: #053958;
   min-height: 500px;
 }
 @media screen and (max-width: 768px) {
