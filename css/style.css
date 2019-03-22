@@ -24,6 +24,7 @@ img#mainAdvr{
    height: 80px;
   width: 20%;
   align-content: left;
+  position: absolute;
 }
 
 #page {
@@ -346,6 +347,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .gtco-cover a:hover {
   color: white;
 }
+
 .gtco-cover .overlay {
   z-index: 1;
   position: absolute;
@@ -353,7 +355,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
-  background: #0C3C6C;
+  background: #ECF2F8;
 }
 .gtco-cover > .gtco-container {
   position: relative;
@@ -1479,11 +1481,14 @@ form label {
     top: -2em;
   }
 }
+/*modifica Proteccion Civil*/
+/*modifica Proteccion Civil*/
+/*modifica Proteccion Civil*/
 #gtco-features-3 .feature {
   width: 33.33%;
   float: left;
   padding: 30px;
-  background: #17B794;
+  background: #0C3C6C;
   position: relative;
   text-align: center;
 }
@@ -1504,13 +1509,14 @@ form label {
   font-size: 16px;
   line-height: 1.7;
 }
+/*modifica ICONO Proteccion Civil*/
 #gtco-features-3 .feature .icon {
   display: block;
   width: 90px;
   height: 90px;
   margin: 0 auto 10px auto;
   position: relative;
-  background: #15a989;
+  background: #0C3C6C;
   top: -3em;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1531,13 +1537,15 @@ form label {
 #gtco-features-3 .feature.feature-1 {
   z-index: 7;
 }
+/*modifica PERMISOS*/
+
 #gtco-features-3 .feature.feature-2 {
   bottom: 0px;
   z-index: 10;
   -webkit-box-shadow: 0px 0 30px 10px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: 0px 0 30px 10px rgba(0, 0, 0, 0.25);
   box-shadow: 0px 0 30px 10px rgba(0, 0, 0, 0.25);
-  background: #15a585;
+  background: #0C3C6C;
 }
 @media screen and (max-width: 768px) {
   #gtco-features-3 .feature.feature-2 {
@@ -1546,8 +1554,9 @@ form label {
     box-shadow: none !important;
   }
 }
+/*modifica icono PERMISOS*/
 #gtco-features-3 .feature.feature-2 .icon {
-  background: #13977a;
+  background: #0C3C6C;
 }
 #gtco-features-3 .feature.feature-2 .feature-inner {
   top: -3em;
@@ -1558,11 +1567,12 @@ form label {
     top: 0;
   }
 }
+/*modifica icono PERMISOS*/
 #gtco-features-3 .feature.feature-2:before {
   position: absolute;
   top: -50px;
   content: "";
-  background: #15a585;
+  background: #0C3C6C;
   height: 50px;
   width: 100%;
   left: 0;
@@ -1576,7 +1586,7 @@ form label {
   position: absolute;
   bottom: -30px;
   content: "";
-  background: #15a585;
+  background: #0C3C6C;
   height: 30px;
   width: 100%;
   left: 0;
@@ -1589,12 +1599,13 @@ form label {
     box-shadow: none !important;
   }
 }
+/*MODIFICA SITIOS*/
 #gtco-features-3 .feature.feature-3 {
   z-index: 7;
-  background: #129377;
+  background: #0C3C6C;
 }
 #gtco-features-3 .feature.feature-3 .icon {
-  background: #118a6f;
+  background: #0C3C6C;
 }
 
 .gtco-flex {
