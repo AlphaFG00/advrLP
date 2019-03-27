@@ -1938,8 +1938,10 @@ br
 
 .cont {
    position: relative;
-   height: 100vh;
+   height: 55vh;
+   width: 150vh;
    overflow: hidden;
+
 }
  .slider {
    position: relative;

@@ -3436,8 +3436,7 @@ tbody.collapse.in {
   clear: both;
 }
 .nav > li {
-  position: relative;
-  display: block;
+ 
 }
 .nav > li > a {
   position: relative;
