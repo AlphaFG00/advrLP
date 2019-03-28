@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 ::selection {
-  color: #fff;
+  color: #2AA6DC;
   background: #17B794;
 }
 
@@ -190,7 +190,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 0;
   position: absolute;
   pointer-events: none;
-  border-bottom-color: #fff;
+  border-bottom-color: #2AA6DC;
   border-width: 8px;
   margin-left: -8px;
 }
@@ -216,7 +216,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #000 !important;
 }
 .gtco-nav ul li.has-dropdown:hover a, .gtco-nav ul li.has-dropdown:focus a {
-  color: #fff;
+  color: #2AA6DC;
 }
 .gtco-nav ul li.btn-cta a {
   color: #17B794;
